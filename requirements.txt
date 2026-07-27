@@ -1,0 +1,27 @@
+# Core data processing
+numpy==1.26.4
+pandas==2.3.3
+
+# Machine Learning
+scikit-learn==1.3.2
+catboost==1.2.8
+lightgbm==4.6.0
+xgboost==2.0.3
+
+# Model development / optimization
+optuna==3.6.1
+imbalanced-learn==0.11.0
+
+# Visualization
+matplotlib==3.10.7
+seaborn==0.13.2
+plotly==5.22.0
+
+# Web application
+streamlit==1.38.0
+
+# Parquet support
+pyarrow==22.0.0
+
+# Model serialization
+joblib==1.5.2

@@ -7,20 +7,20 @@ st.set_page_config(
 )
 
 home = st.Page(
-    "pages/home.py",
+    "modules/home.py",
     title="Home",
     icon="🏠",
     default=True
 )
 
 analytics = st.Page(
-    "pages/analytic.py",
+    "modules/analytic.py",
     title="Analytics",
     icon="📊"
 )
 
 prediction = st.Page(
-    "pages/prediction.py",
+    "modules/prediction.py",
     title="Health Risk Prediction",
     icon="🩺"
 )
