@@ -546,6 +546,10 @@ Possible extensions include:
 
 ---
 
+## Live Demo Link
+
+**[Student Health Risk System](https://student-health-risk-prediction.streamlit.app/)**
+
 ## 👨‍💻 Author
 
 **Harwinder Singh**
